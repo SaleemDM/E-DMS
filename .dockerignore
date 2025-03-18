@@ -1,0 +1,8 @@
+__pycache__/
+db_config.py
+*.pyc
+*.pyo
+*.pyd
+uploads/
+.env
+
